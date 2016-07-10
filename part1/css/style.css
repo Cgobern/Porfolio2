@@ -277,7 +277,7 @@ strong, small {
     height: 100%;
     position: absolute;
     overflow: hidden;
-    background: url(../../../Crystal-Backgrounds/Normal/Crystal_01.png);
+    background: url(../images/Crystal_01.png);
     background-size: cover;
 }
 
@@ -1329,7 +1329,7 @@ ul.info-list li strong {
 
 @media (max-width:800px) and (max-height:600px) {
 	.home {
-		background: url(../../../Crystal-Backgrounds/Normal/Crystal_01.png)30% 30%;
+		background: url(../images/Crystal_01.png)30% 30%;
 		overflow-y: scroll;
 	}
 
@@ -1401,7 +1401,7 @@ ul.info-list li strong {
 @media (max-width:768px) {
 
 	.home {
-		background: url(../../../Crystal-Backgrounds/Normal/Crystal_01.png) 30% 30%;
+		background: url(../images/Crystal_01.png) 30% 30%;
 	}
 
 	.name-block,
